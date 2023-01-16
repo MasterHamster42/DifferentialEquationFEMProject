@@ -113,7 +113,7 @@ function plotResult(X, Y)
     ax = Axis(f[1, 1], xlabel = L"x", ylabel = ylabel = L"u(x)",
     xlabelsize = 30, ylabelsize = 30
     )
-    Label(f[0,:], "Elastic deformation graph", color = "#F79D1EFF", fontsize = 32, tellwidth=false)
+    Label(f[0,:], L"Elastic\  ddeformation\ ggraph", color = "#F79D1EFF", fontsize = 32, tellwidth=false)
     scatterlines!(ax, X, Y)
     settings_grid = GridLayout(f[2,1])
 
