@@ -6,5 +6,12 @@ DifferentialEquationProject1.main()
 ```
 The only dependency is GLMakie used for visualization.
 
+Initial problem
+
+<p align="center">
+  <img src="img/problem.png" alt="problem">
+</p>
+
+For full solution go to [report](report.pdf).
 Example solution
 ![solution](img/solution.png)
