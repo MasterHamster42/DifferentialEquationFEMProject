@@ -13,5 +13,6 @@ Initial problem
 </p>
 
 For full solution go to [report](report.pdf).
-Example solution
+
+Graph of example solution:
 ![solution](img/solution.png)
